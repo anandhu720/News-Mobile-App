@@ -13,7 +13,7 @@ News App , which updates and shows the latest news happening in India from diffe
 - Can read all latest news
 - Can navigate to orginal site
 
-It is a very basic app.
+
 
 ## Upcoming Features
 
